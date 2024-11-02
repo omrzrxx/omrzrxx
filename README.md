@@ -3,7 +3,7 @@
 <h3 align="center">junior developer learning from morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.73bec76ab430fd0dd43768f65655ee7a?rik=m5L2GBBoYsthhQ&pid=ImgRaw&r=0">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omrzrxx&label=Profile%20views&color=0e75b6&style=flat" alt="omrzrxx" /> </p>https://th.bing.com/th/id/R.3dc98e10a8cef3affa7c30e4b79453bc?rik=10fXHqNSftFcTQ&pid=ImgRaw&r=0
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omrzrxx&label=Profile%20views&color=0e75b6&style=flat" alt="omrzrxx" /> 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
